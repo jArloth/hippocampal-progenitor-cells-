@@ -1,2 +1,3 @@
 # Hippocampal-Progenitor-Cells (HPCs)
- Glucocorticoid exposure during hippocampal neurogenesis primes future stress response by inducing changes in DNA methylation
+ 
+This is our respository for the scripts involved in "Glucocorticoid exposure during hippocampal neurogenesis primes future stress response by inducing changes in DNA methylation".
